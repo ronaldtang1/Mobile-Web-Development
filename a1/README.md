@@ -59,26 +59,3 @@
 
 *Remote repository:*
 [My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
-
-#### Chapter 1 and 2 Questions:
-
-1. c,d
-2. b
-3. c
-4. a
-5. a
-6. a
-7. c
-8. 0
-9. d
-10. a
-11. b
-12. c
-13. b
-14. b
-15. c
-16. d
-17. c
-18. c
-19. c
-20. a
