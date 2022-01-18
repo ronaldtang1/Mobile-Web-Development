@@ -1,16 +1,21 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# Class number and name
+# LIS 4381 - Mobile Web Application Development
 
-## Your name
+## Ronald Tang
 
-### Class Number Requirements:
+### Lis 4381 Requirements:
 
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install something
-    - Install something
+    - Install PHP
+    - Install JDK
+    - Install Android Studio
+    - Created Bitbucket repo
+    - Completed Bitbucket tutorial
+    - Provide git command descriptions
+    - Provide screenshots of installations
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
 
