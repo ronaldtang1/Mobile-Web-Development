@@ -58,7 +58,7 @@
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/ronaldtang1/bitbucketstationlocations/ "Bitbucket Station Locations")
 
 *Remote repository:*
-[A1 My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
+[My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
 
 #### Chapter 1 and 2 Questions:
 
