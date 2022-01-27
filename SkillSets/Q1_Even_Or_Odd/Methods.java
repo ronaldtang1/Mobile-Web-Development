@@ -4,7 +4,7 @@ public class Methods {
 
     public static void getRequirements()
     {
-        System.out.println("Ronald Tang");
+        System.out.println("Developer: Ronald Tang");
         System.out.println("Program evaluates integers as even or odd.");
         System.out.println("Program does *not* check for non-numeric characters.");
 
