@@ -18,4 +18,7 @@
     - Provide screenshots of installations
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Created first Android Studio App
+    - create Healthy Recipe App
+    - Provides screenshots of Healthy Recipe App
 
