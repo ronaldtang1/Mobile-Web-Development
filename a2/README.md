@@ -3,58 +3,39 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS 4381 - Mobile Web Application Development
 
-## Your Name
+## Ronald Tang
 
-### Assignment # Requirements:
+### Assignment 2 Requirements:
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Created first Android Studio app
+2. Created Healthy Recipe App
+3. Screenshots of it running
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+* Screenshot of running applications first user interface
+* Screenshot of running applications second user interface
+* Bitbucket repo link
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of First User Interface running*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![First User Interface Screenshot](img/firstuser.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of Second User Interface running*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
+![Scecond User Interface Screenshot](img/seconduser.png)
 
 
-#### Tutorial Links:
+#### Bitbucket Links:
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
 
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+*Remote repository:*
+[My Remote Repository](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
