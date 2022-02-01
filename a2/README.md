@@ -11,9 +11,11 @@
 
 *Sub-Heading:*
 
-1. Created first Android Studio app
-2. Created Healthy Recipe App
-3. Screenshots of it running
+1. Created Healthy Recipe App
+2. Screenshots of it running
+3. Screenshot of Skillset 1
+4. Screenshot of Skillset 2
+5. Screenshot of Skillset 3
 
 #### README.md file should include the following items:
 
@@ -31,14 +33,8 @@
 
 ![Second User Interface Screenshot](img/seconduser.png)
 
-*Screenshot of Skillset 1 running*:
-![Screenshot of Skillset 1](img/Even_Odd.png)
-
-*Screenshot of Skillset 2 running*:
-![Screenshot of Skillset 2](img/Largest_Num.png)
-
-*Screenshot of Skillset 3 running*:
-![Screenshot of Skillset 3](img/Arrays_Loops.png)
+*Screenshot of Skillsets running running*:
+![Screenshot of Skillset 1](img/Even_Odd.png) ![Screenshot of Skillset 2](img/Largest_Num.png) ![Screenshot of Skillset 3](img/Arrays_Loops.png)
 
 #### Bitbucket Links:
 
