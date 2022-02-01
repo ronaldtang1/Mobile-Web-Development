@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "SkillSets/Q3_Arrays_Loops"
+        "SkillSets/Q3_Arrays_Loops",
+        "SkillSets/Q2_Largest_Num",
+        "SkillSets/Q1_Even_Or_Odd"
     ]
 }

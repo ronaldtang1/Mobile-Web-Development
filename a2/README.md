@@ -29,8 +29,16 @@
 
 *Screenshot of Second User Interface running*:
 
-![Scecond User Interface Screenshot](img/seconduser.png)
+![Second User Interface Screenshot](img/seconduser.png)
 
+*Screenshot of Skillset 1 running*:
+![Screenshot of Skillset 1](img/Even_Odd.png)
+
+*Screenshot of Skillset 2 running*:
+![Screenshot of Skillset 2](img/Largest_Num.png)
+
+*Screenshot of Skillset 3 running*:
+![Screenshot of Skillset 3](img/Arrays_Loops.png)
 
 #### Bitbucket Links:
 
