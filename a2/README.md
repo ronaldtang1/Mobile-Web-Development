@@ -21,6 +21,7 @@
 
 * Screenshot of running applications first user interface
 * Screenshot of running applications second user interface
+* Screenshots of Skillsets
 * Bitbucket repo link
 
 #### Assignment Screenshots:
@@ -34,7 +35,10 @@
 ![Second User Interface Screenshot](img/seconduser.png)
 
 *Screenshot of Skillsets running running*:
-![Screenshot of Skillset 1](img/Even_Odd.png) ![Screenshot of Skillset 2](img/Largest_Num.png) ![Screenshot of Skillset 3](img/Arrays_Loops.png)
+
+| Skillset 1 | Skillset 2 | Skillset 3 |
+| ---------- | ---------- | ----------|
+| ![Screenshot of Skillset 1](img/Even_Odd.png) | ![Screenshot of Skillset 2](img/Largest_Num.png) | ![Screenshot of Skillset 3](img/Arrays_Loops.png)
 
 #### Bitbucket Links:
 
