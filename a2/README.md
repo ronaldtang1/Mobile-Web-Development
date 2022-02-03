@@ -26,13 +26,9 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of Healthy Recipe App running*:
-
 | Screenshot of First User Interface running | Screenshot of Second User Interface running |
 | ---------- | ---------- |
 | ![First User Interface Screenshot](img/firstuser.png) | ![Second User Interface Screenshot](img/seconduser.png) |
-
-*Screenshot of Skillsets running running*:
 
 | Skillset 1 | Skillset 2 | Skillset 3 |
 | ---------- | ---------- | ----------|
