@@ -48,7 +48,7 @@
 
 | Skillset 4 | Skillset 5 | Skillset 6 |
 | ---------- | ---------- | ----------|
-| ![Screenshot of Skillset 4](img/Decision_structure.png) | ![Screenshot of Skillset 5](img/Random_Num_Generator.png) | ![Screenshot of Skillset 6](img/Methods.png)
+| ![Screenshot of Skillset 4](img/Decision_structure.png) | ![Screenshot of Skillset 5](img/Random.png) | ![Screenshot of Skillset 6](img/Methods.png)
 
 #### Bitbucket Links:
 
