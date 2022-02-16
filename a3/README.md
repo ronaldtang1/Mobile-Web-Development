@@ -3,58 +3,46 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS 4381 - Mobile Web Application Development
 
-## Your Name
+## Ronald Tang
 
-### Assignment # Requirements:
+### Assignment 3 Requirements:
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Created ERD 
+2. Screenshots of running application's opening user interface
+3. Screenshots of running application's processing user input
+4. Screenshots of 10 records for each table 
+5. Screenshots of skillsets
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+* Screenshots of running application's opening user interface
+* Screenshots of running application's processing user input
+* Screenshots of skillsets
+* Bitbucket repo link
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of ERD*
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![ERD Screenshot](img/ERD.png)
 
-*Screenshot of running java Hello*:
+| Screenshot of running opening user interface | Screenshot of running user input |
+| ---------- | ---------- |
+| ![First User Interface Screenshot](img/Open_interface.png) | ![Second User Interface Screenshot](img/Running_interface.png) |
 
-![JDK Installation Screenshot](img/jdk_install.png)
+| Petstore Table | Pet Table | Customer Table |
+| ---------- | ---------- | ----------|
+| ![Screenshot of Petstore Table](img/Petstore_table.png) | ![Screenshot of Pet Table](img/Pet_Table.png) | ![Screenshot of Customer Table](img/Customer_table.png)
 
-*Screenshot of Android Studio - My First App*:
+| Skillset 4 | Skillset 5 | Skillset 6 |
+| ---------- | ---------- | ----------|
+| ![Screenshot of Skillset 4](img/Decision_structure.png) | ![Screenshot of Skillset 5](img/Random_Num_Generator.png) | ![Screenshot of Skillset 6](img/Methods.png)
 
-![Android Studio Installation Screenshot](img/android.png)
+#### Bitbucket Links:
 
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+*Remote repository:*
+[My Remote Repository](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")

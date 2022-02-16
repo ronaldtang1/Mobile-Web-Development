@@ -24,3 +24,11 @@
     - Provide screenshot of Skillset 2 running
     - Provide screenshot of Skillset 3 running
 
+3. [A3 README.md](a3/README.md "My A3 README.md file")
+    - created ERD with 10 records in each table
+    - Screenshots of mobile app open interface
+    - Screenshots of mobile app processing user input
+    - Screenshot of running Decision Structure program
+    - Screenshot of running Random Number Generator program
+    - Screenshot of running Methods program
+
