@@ -34,9 +34,17 @@
 | ---------- | ---------- |
 | ![First User Interface Screenshot](img/Open_interface.png) | ![Second User Interface Screenshot](img/Running_interface.png) |
 
-| Petstore Table | Pet Table | Customer Table |
-| ---------- | ---------- | ----------|
-| ![Screenshot of Petstore Table](img/Petstore_table.png) | ![Screenshot of Pet Table](img/Pet_Table.png) | ![Screenshot of Customer Table](img/Customer_table.png)
+*Screenshot of Petstore table*
+
+![Petstore Table Screenshot](img/Petstore_table.png "Petstore records")
+
+*Screenshot of Pet table*
+
+![Pet Table Screenshot](img/Pet_Table.png "Pet records")
+
+*Screenshot of Customer table*
+
+![Customer Table Screenshot](img/Customer_table.png "Customer records")
 
 | Skillset 4 | Skillset 5 | Skillset 6 |
 | ---------- | ---------- | ----------|
