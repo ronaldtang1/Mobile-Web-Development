@@ -51,10 +51,10 @@
 | ![Screenshot of Skillset 4](img/Decision_structure.png) | ![Screenshot of Skillset 5](img/Random.png) | ![Screenshot of Skillset 6](img/Methods.png)
 
 *Link to a3.mwb*
-![a3.mwb link](docs/a3.mwb)
+[a3.mwb link](docs/a3.mwb)
 
 *Link to a3.sql*
-![a3.sql link](docs/a3.sql)
+[a3.sql link](docs/a3.sql)
 
 #### Bitbucket Links:
 
