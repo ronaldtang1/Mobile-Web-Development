@@ -32,3 +32,10 @@
     - Screenshot of running Random Number Generator program
     - Screenshot of running Methods program
 
+4. [A4 README.md](a4/README.md) "My A4 README.md file")
+    - Created business card app
+    - Screenshots of mobile app open interface
+    - Screenshots of mobile app processing user input
+    - Screenshot of running Random Number Generator Validation program
+    - Screenshot of running Largest Three Number program
+    - Screenshot of running Array runtime data validation

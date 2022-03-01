@@ -3,58 +3,37 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS 4381 - Mobile Web Application Development
 
-## Your Name
+## Ronald Tang
 
-### Assignment # Requirements:
+### Project 1 Requirements:
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Created My Business Card app
+2. Screenshots of runnin application's opening user interface
+3. Screenshots of running application's processing user input
+4. Screenshots of skillsets
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+* Screenshots of running application's opening user interface
+* Screenshots of running application's processing user input
+* Screenshots of skillsets
+* Bitbucket repo link
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+| Screenshot of running opening user interface | Screenshot of running user input |
+| ---------- | ---------- |
+| ![First User Interface Screenshot](img/Open_Interface.png) | ![Second User Interface Screenshot](img/Running_Interface.png) |
 
-![AMPPS Installation Screenshot](img/ampps.png)
+| Skillset 4 | Skillset 5 | Skillset 6 |
+| ---------- | ---------- | ----------|
+| ![Screenshot of Skillset 7](img/Random_Gen.png) | ![Screenshot of Skillset 8](img/Three_Largest.png) | ![Screenshot of Skillset 9](img/Array_Runtime.png)
 
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
+#### Bitbucket Link:
 
 *Tutorial: Request to update a teammate's repository:*
 [A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
