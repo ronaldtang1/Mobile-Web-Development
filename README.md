@@ -32,7 +32,7 @@
     - Screenshot of running Random Number Generator program
     - Screenshot of running Methods program
 
-4. [A4 README.md](a4/README.md) "My A4 README.md file")
+4. [P1 README.md](P1/README.md) "My P1 README.md file")
     - Created business card app
     - Screenshots of mobile app open interface
     - Screenshots of mobile app processing user input
