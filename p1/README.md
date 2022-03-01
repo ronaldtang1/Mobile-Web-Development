@@ -29,7 +29,7 @@
 | ---------- | ---------- |
 | ![First User Interface Screenshot](img/Open_Interface.png) | ![Second User Interface Screenshot](img/Running_Interface.png) |
 
-| Skillset 4 | Skillset 5 | Skillset 6 |
+| Skillset 7 | Skillset 8 | Skillset 9 |
 | ---------- | ---------- | ----------|
 | ![Screenshot of Skillset 7](img/Random_Gen.png) | ![Screenshot of Skillset 8](img/Three_Largest.png) | ![Screenshot of Skillset 9](img/Array_Runtime.png)
 
