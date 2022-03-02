@@ -35,5 +35,5 @@
 
 #### Bitbucket Link:
 
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+*Remote repository:*
+[Bitbucket Repository Link](https://bitbucket.org/username/myteamquotes/ "My bitbucket repo link")
