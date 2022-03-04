@@ -1,8 +1,3 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
->
->Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
->
-
 # LIS 4381 - Mobile Web Application Development
 
 ## Ronald Tang
@@ -23,10 +18,6 @@
 * Git commands w/short descriptions
 * Bitbucket repo links
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
 > #### Git commands w/short descriptions:
 
 1. git init - initializes a new repository
@@ -50,7 +41,6 @@
 *Screenshot of Android Studio - My First App*:
 
 ![Android Studio Installation Screenshot](img/android.png "Android Studio Screenshot")
-
 
 #### Tutorial Links:
 
