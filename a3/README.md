@@ -4,7 +4,7 @@
 
 ### Assignment 3 Requirements:
 
-*Sub-Heading:*
+*Five Parts:*
 
 1. Created ERD 
 2. Screenshots of running application's opening user interface

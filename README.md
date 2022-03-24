@@ -30,7 +30,13 @@
     - Screenshot of running Random Number Generator program
     - Screenshot of running Methods program
 
-4. [P1 README.md](p1/README.md "My P1 README.md file")
+4. [A4 README.md](a4/README.md "My A4 README.md file")
+    - Create an online portfolio using AMMPS
+    - A1, A2, A3, and P1 links must work, and each index.php file should have content, as per the associated Bitbucket README.md files
+    - Provide Screenshots of local lis4381 web app
+    - Screenshots of skillsets
+  
+5. [P1 README.md](p1/README.md "My P1 README.md file")
     - Created business card app
     - Screenshots of mobile app open interface
     - Screenshots of mobile app processing user input

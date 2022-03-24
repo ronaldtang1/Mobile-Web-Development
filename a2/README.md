@@ -4,7 +4,7 @@
 
 ### Assignment 2 Requirements:
 
-*Sub-Heading:*
+*Five Parts:*
 
 1. Created Healthy Recipe App
 2. Screenshots of it running
@@ -30,9 +30,6 @@
 | ![Screenshot of Skillset 1](img/Even_Odd.png) | ![Screenshot of Skillset 2](img/Largest_Num.png) | ![Screenshot of Skillset 3](img/Arrays_Loops.png)
 
 #### Bitbucket Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
 
 *Remote repository:*
 [My Remote Repository](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")

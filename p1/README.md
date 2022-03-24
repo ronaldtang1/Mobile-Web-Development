@@ -4,7 +4,7 @@
 
 ### Project 1 Requirements:
 
-*Sub-Heading:*
+*Four parts:*
 
 1. Created My Business Card app
 2. Screenshots of runnin application's opening user interface
