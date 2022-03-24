@@ -18,7 +18,7 @@
 * Screenshots of skillsets 
 
 #### Online Portfolio
-*Link to local lis4381 web app*
+*Link to local lis4381 web app:*
 [Online Portfolio](http://localhost:8080/repos/lis4381/index.php "Online Portfolio")
 
 #### Assignment Screenshots:
