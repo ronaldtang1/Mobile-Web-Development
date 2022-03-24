@@ -72,7 +72,7 @@
 							<img src = "img/slide1.png" alt="Slide 1"> 
 									<div class="carousel-caption">
 										<h3>LinkedIn Profile</h3>
-										<p>Contains information on past work and current skills I have.</p>
+										<a href="www.linkedin.com/in/ronald-tang12" class="Info">Click for Info</a>
                         </div>
                       </div>
               
@@ -80,15 +80,15 @@
 								<img src="img/slide2.png" alt="Slide 2">
 								<div class="carousel-caption">
 									<h3>Bitbucket</h3>
-									<p>Check out the repositories.</p>									
+									<a href="https://bitbucket.org/ronaldtang1/lis4381/src/" class="Info">Click for Info</a>								
 								</div>
 							</div>
 
 							<div class="item">
-								<img src="img/slide3.jpg" alt="Slide 3">
+								<img src="img/slide3.png" alt="Slide 3">
 								<div class="carousel-caption">
-									<h3>Cloud Computing</h3>
-									<p>Building and Maintaing cloud infrastructure</p>									
+									<h3>Github</h3>	
+									<a href="https://github.com/ronaldtang1" class="Info">Click for Info</a>								
 								</div>
 							</div>
 						</div>
