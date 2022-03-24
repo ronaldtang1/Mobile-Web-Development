@@ -16,7 +16,10 @@
 * Screenshots of failed validation
 * Screenshots of passed validation
 * Screenshots of skillsets 
-* Link to local lis4381 web app: http://localhost:8080/repos/lis4381/index.php
+
+#### Online Portfolio
+*Link to local lis4381 web app*
+[Online Portfolio](http://localhost:8080/repos/lis4381/index.php "Online Portfolio")
 
 #### Assignment Screenshots:
 
@@ -40,4 +43,4 @@
 #### Bitbucket Link:
 
 *My Remote repository:*
-[Remote repository](https://bitbucket.org/ronaldtang1/lis4381/  "Remote repository")
+[Remote repository](https://bitbucket.org/ronaldtang1/lis4381/ "Remote repository")
