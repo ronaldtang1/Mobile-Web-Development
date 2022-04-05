@@ -1,8 +1,8 @@
-# LIS 4381 - Mobile Web Application Development
+# LIS 4381
 
 ## Ronald Tang
 
-### Assignment 4 Requirements:
+### Assignment 4 # Requirements:
 
 *Three Parts:*
 

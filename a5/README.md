@@ -1,60 +1,43 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
->
->Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
->
+# LIS 4381 - Mobile Web Application Development
 
-# Course Title
+## Ronald Tang
 
-## Your Name
+### Assignment 5 Requirements:
 
-### Assignment # Requirements:
+*Three parts:*
 
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
+1. Add server-side validation and regular expressions as per the database entity attribute requirements
+2. Review other sub-directories and files, and modify them accordingly
+3. Provide screenshots of index.php and add_petstore_process.php
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshots of index.php
+* Screenshots of add_petstore_process.php (that includes error.php)
+* Screenshot of failed validation
+* Screenshot of passed validation
+* Screenshot of skillsets
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+#### Online Portfolio
+*Link to local lis4381 web app:*
+[Online Portfolio](http://localhost:8080/repos/lis4381/index.php "Online Portfolio")
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of index.php*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![index.php Screenshot](img/index.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of invalid validation*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![Invalid Validation Screenshot](img/Failed_validation.png)
 
-*Screenshot of Android Studio - My First App*:
+*Screenshot of passed validation*:
 
-![Android Studio Installation Screenshot](img/android.png)
+![Passed validation Screenshot](img/Passed_validation.png)
 
 
 #### Tutorial Links:
 
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+*My Remote repository:*
+[Remote repository](https://bitbucket.org/ronaldtang1/lis4381/ "Remote repository")

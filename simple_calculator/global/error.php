@@ -5,10 +5,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-	<meta name="author" content="Ronald Tang">
+	<meta name="author" content="Mark K. Jowett, Ph.D.">
 	<link rel="icon" href="favicon.ico">
 
-		<title>LIS 4381</title>
+		<title>CRSXXXX</title>
 		<?php include_once("../css/include_css.php"); ?>
 </head>
 <body>
