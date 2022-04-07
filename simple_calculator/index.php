@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Assignment 4 deals with creating an online portfolio and creating a client-side validation example.">
+	<meta name="description" content="Simple calculator that calculates math.">
 	<meta name="author" content="Ronald Tang">
 	<link rel="icon" href="favicon.ico">
 
@@ -21,7 +21,7 @@
 					</div>
 
 					<h2>Perform Calculation</h2>
-			<form id="defaultForm" method="post" class="form-horizontal" action=>
+			<form id="defaultForm" method="post" class="form-horizontal" action=process_functions.php>
 				<div class="form-group">
 					<label class="col-sm-4 control-label">Num 1:</label>
 					<div class="col-sm-4">
@@ -46,12 +46,12 @@
 				<div class="form-group">
 					<div class="col-sm-6 col-sm-offset-3">
 							<button type="submit" class="btn btn-primary" name="submit" value="submit">Calculate</button>
-							<input type="hidden" name="redirect" value="http://localhost/repos/lis4381/simple_calculator/process.php">
+							<input type="hidden" name="redirect" value="http://localhost/repos/lis4381/simple_calculator/process_functions.php">
 					</div>
 				</div>
 						</form>
 
-			<?php include_once "process.php"; ?>
+			<?php include_once "process_functions.php"; ?>
 			<?php include_once "global/footer.php"; ?>
 		</div> <!-- end starter-template -->
  </div> <!-- end container -->

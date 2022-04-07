@@ -1,3 +1,7 @@
+<?php
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,79 +23,106 @@
 					<div class="page-header">
 						<?php include_once("global/header.php"); ?>	
 					</div>
+					<?php
+if (!empty($_POST)){
+    $num1 = $_POST['num1'];
+    $num2 = $_POST['num2'];
+    $calcu = $_POST['calcu'];
+	
+	if (preg_match('/^[-+]?[0-9]*\.?[0-9]+$/', $num1) && preg_match('/^[-+]?[0-9]*\.?[0-9]+$/', $num2))
+	//if(is_numeric($num1) && is_numeric($num2))
+	{
+    {
+		echo '<h2>'."$calcu".'</h2>';
+	}
 
-					<h2>Perform Calculation</h2>
-					<form name="form" id="defaultForm" method="post" class="form-horizontal" action="process_function.php">
-					<div class="form-group">
-							<label class="col-sm-4 control-label">Num 1:</label>
-							<div class="col-sm-4">
-									<input type="number" class="form-control" name="v1" />
-							</div>
-					</div>
+	function AddNum($x,$y)
+	{
+		echo "$x" . " + " . "$y" . " = ";
+		echo $x + $y;
+	}
+	
+	function SubtractNum($x, $y)
+	{
+		echo "$x" . " - " . "$y" . " = ";
+		echo $x - $y;
+	}
 
-					<div class="form-group">
-							<label class="col-sm-4 control-label">Num 2:</label>
-							<div class="col-sm-4">
-									<input type="number" class="form-control" name="v2" />
-							</div>
-					</div>
-			<input type="radio" name="add"> Addition
-			<input type="radio" name="sub"> Subtraction
-			<input type="radio" name="mul"> Multiplication
-			<input type="radio" name="div">	Division
-			<br>
-			<br>
-			<div class="form-group">
-				<div class="col-sm-6 col-sm-offset-3">
-						<button type="submit" class="btn btn-primary" name="calculate" value="Calculate" onclick="math();">Calculate</button>
-				</div>
-			</div>
-		</form>
-		<div>
-			<?php include_once "global/footer.php"; ?>
-		</div> <!-- end starter-template -->
- </div> <!-- end container -->
+	function MultiplyNum($x, $y)
+	{
+		echo "$x" . " * " . "$y" . " = ";
+		echo $x * $y;
+	}
 
-	<!-- Bootstrap JavaScript
+	function DivideNum($x, $y)
+	{
+		if($y == 0)
+		{
+			echo "Cannot divide by zero!";
+		}
+		else
+		{
+			echo "$x" . " / " . "$y" . " = ";
+			echo $x / $y;
+		}
+	}
+
+	function PowerNum($x,$y)
+	{
+		echo "$x" . " raised to the power of " . "$y" . " = ";
+		echo pow($x, $y);
+	}
+	
+	//call functions
+	if($calcu == 'addition')
+	{
+		AddNum($num1, $num2);
+	}
+	else if($calcu == 'subtraction')
+	{
+		SubtractNum($num1, $num2);
+	}
+	else if($calcu == 'multiplication')
+	{
+		MultiplyNum($num1, $num2);
+	}
+	else if($calcu == 'division')
+	{
+		DivideNum($num1, $num2);
+	}
+	else if($calcu == 'exponentiation')
+	{
+		PowerNum($num1, $num2);
+	}
+	else
+	{
+		echo "Must select an operation";
+	}
+	?>		
+	<p>
+	<?php
+	}
+	else
+	{
+		echo "Must enter valid number.";
+	}
+}
+else
+{
+	header('Location: index.php');
+}
+	?>
+	</p>
+	<?php include_once "global/footer.php";?>
+
+	</div>
+</div>
+
+<!-- Bootstrap JavaScript
 	================================================== -->
 	<!-- Placed at end of document so pages load faster -->
-			<?php include_once("../js/include_js.php"); ?>
-			<script>
-function math()
-{
-if (document.form.add.checked == true)
-	{
-	var num1=document.form.v1.value;
-	var num2=document.form.v2.value;
-	var num3=Number(num1)+Number(num2);
-	alert(num1 +" + "+num2+" = "+num3);
-	}
-
-	else if(document.form.sub.checked == true)
-	{
-	var num1=document.form.v1.value;
-	var num2=document.form.v2.value;
-	var num3=Number(num1)-Number(num2);
-	alert(num1 +" - "+num2+" = "+num3);
-	}
-
-	else if(document.form.mul.checked == true)
-	{
-	var num1=document.form.v1.value;
-	var num2=document.form.v2.value;
-	var num3=Number(num1)*Number(num2);
-	alert(num1 +" * "+num2+" = "+num3);
-	}
-
-	else if(document.form.div.checked == true)
-	{
-	var num1=document.form.v1.value;
-	var num2=document.form.v2.value;
-	var num3=Number(num1)/Number(num2);
-	alert(num1 +" / "+num2+" = "+num3);
-	}
-
-	}
-</script>			
+	<?php include_once("../js/include_js.php"); ?>
 </body>
 </html>
+
+
