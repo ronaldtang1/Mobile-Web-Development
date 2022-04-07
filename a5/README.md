@@ -37,7 +37,18 @@
 ![Passed validation Screenshot](img/Passed_validation.png)
 
 *Screenshot of Skillset 13*:
+
 ![Sphere and Volume Calculator](img/Sphere_volume.png)
+
+*Screenshot of Simple Calculator*:
+
+![Addition (index.php)](img/addition.png)
+
+![Addition (process_functions.php)](img/addition_success.png)
+
+![Division (index.php)](img/division.png)
+
+![Division (process_functions.php)](img/division_error.png)
 
 | Write/Read File (index.php) | Write/Read file (process.php) |
 | ---------- | ---------- |
