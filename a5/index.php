@@ -104,7 +104,7 @@ $statement->execute();
 	<!-- Bootstrap JavaScript
 	================================================== -->
 	<!-- Placed at end of document so pages load faster -->
-				<?php include_once("../js/include_js.php"); ?>
+			<?php include_once("../js/include_js.php"); ?>
 
 		<script type="text/javascript">
 	 $(document).ready(function(){

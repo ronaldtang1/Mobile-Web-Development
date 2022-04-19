@@ -14,7 +14,7 @@ error_reporting(E_ALL);
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="My online portfolio which showcases my skills and projects using various softwares, languages, and tools.">
-		<meta name="author" content="Shannon McWaters">
+		<meta name="author" content="Ronald Tang">
     <link rel="icon" href="favicon.ico">
 
 		<title>Simple Calculator</title>		

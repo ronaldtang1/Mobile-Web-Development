@@ -6,9 +6,9 @@ $options = array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION);
 //example:
 if ($IP=="local")
 { //Data source name (DSN) contains information about a specific database in order to connect to it.
-	$dsn = 'mysql:host=localhost;port=3306;dbname=yourdbname';
-	$username = 'yourusername';
-	$password = 'yourpassword';
+	$dsn = 'mysql:host=localhost;port=3306;dbname=rt20g';
+	$username = 'root';
+	$password = 'iBuypower_12';
 }
 
 //contact your Web host for DB connection documentation
@@ -30,7 +30,8 @@ catch (PDOException $e)
 	//only use for testing, to avoid providing security exploits
 	//after testing, create custom error message
   //echo $e->getMessage();  //display error on this page
-  $error = $e->getMessage(); 
+
+  $error = "Cannot connect to database.";
   include('error.php'); //display in custom error page (forwarding is faster, one trip to server)
 	//header('Location: error.php'); //sometimes, redirecting is needed (two trips to server)
   exit();

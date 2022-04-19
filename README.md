@@ -49,3 +49,8 @@
     - Screenshot of running Random Number Generator Validation program
     - Screenshot of running Largest Three Number program
     - Screenshot of running Array runtime data validation
+
+7. [P2 README.md](p2/README.md "My P2 README.md file")
+    - Add edit and delete functionality to the petstore database
+    - Provide screenshots for the petstore and editing a record in the petstore
+    - Creating a RSS feed

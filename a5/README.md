@@ -54,7 +54,7 @@
 | ---------- | ---------- |
 | ![Write/Read File (index.php)](img/Read_index.png) | ![Write/Read file (process.php)](img/Read_process.png) |
 
-#### Tutorial Links:
+#### Bitbucket Link:
 
 *My Remote repository:*
 [Remote repository](https://bitbucket.org/ronaldtang1/lis4381/ "Remote repository")
